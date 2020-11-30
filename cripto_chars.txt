@@ -1,0 +1,8 @@
+--->The more scrambled the chars the better!
+--->Cripto will only codify the chars that are in this list!
+--->Your can use other chars but they will remain the same!
+--->Please on the line bellow insert the chars that you want to use: (OBS:'space' is a char)
+lxboGtjM1DnamE3KczN7Zi4qTXWeu9 CdIVLF58fAgsHQB2OJyhR0wvrkpPUYS6!;:}>$#_%)[&<~.",@*^-=+({?`]
+--->On the line bellow insert the formula you want to use to code it: (OBS:Caution may break program!, use "default" for baked in formula)
+default
+--->End of file
